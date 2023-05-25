@@ -1,5 +1,5 @@
-let ipgen = Math.floor(Math.random()*255) + "." + Math.floor(Math.random()*255) + "." + Math.floor(Math.random()*255) + "." + Math.floor(Math.random()*255)
+let ipGen = Math.floor(Math.random()*255) + "." + Math.floor(Math.random()*255) + "." + Math.floor(Math.random()*255) + "." + Math.floor(Math.random()*255)
 
-console.log(ipgen);
+console.log(ipGen);
 
-ipgen = 172061505; //the value of total IP's you can generate from this code.
+ipGen = 172061505; //the value of total IP's you can generate from this code.
